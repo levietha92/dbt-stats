@@ -19,3 +19,7 @@ and give you insights on following:
 - Make sure to install GNU parallel to run the bash script
 - Run `bash dbt_stats.sh` will print result to `output.csv`
 - Instead of `bash` use `dash` for your terminal is believed to make it faster if you have too many dbt models in your project to parse through. I haven't tested. I tried running 200+ models, take 20 minutes, need more optimized script.
+- Expected output
+
+  <img width="669" alt="image" src="https://github.com/levietha92/dbt-stats/assets/55230096/24210b64-5f4a-4ddb-ba66-683968f88f84">
+
